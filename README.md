@@ -1,6 +1,6 @@
 FreedomOP Post archives
 =========
-I, zD12, cannot keep up with the required maintance this project requires.  I shall temporily resign from updating this project.   Any, and all 'issues' created I cannot warranty, and are extemely unlikely to be added.  Very sorry[/b]
+I, zD12, cannot keep up with the required maintance this project requires.  I shall temporily resign from updating this project.   Any, and all 'issues' created I cannot warranty, and are extemely unlikely to be added.  Very sorry
 
 --
 
