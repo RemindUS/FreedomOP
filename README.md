@@ -1,5 +1,8 @@
 FreedomOP Post archives
 =========
+[b]I cannot keep up with the required maintance this project requires.  I shall temporily resign from updating this project.   Any, and all 'issues' created I cannot warranty, and are extemely unlikely to be added.  Very sorry[/b]
+
+--
 
 'FreedomOP Post archives' is project created by myself, [zD12](https://github.com/zD12) and my dear friend, [zdb12](https://github.com/zdb12) to better understand how many posts are posted on [FreedomOP's public forum](http://to.fop.us.to/info).
 
